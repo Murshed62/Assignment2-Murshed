@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+/*------------
+   Heading
+--------------*/
+
+.copa-america{
+    position: absolute;
+width: 485px;
+height: 230px;
+left: 156px;
+top: 207px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 80px;
+color: #fff;
+}
+/*--------------------
+   watch live btn-1
+----------------------*/
+.btn button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 24px 10px 24px;
+    margin: 610px 100px 50px 128px;
+    width: 168px;
+    height: 44px;
+    left: 156px;
+    top: 464px;
+    font-weight: 900;
+    background: #f104b6;
+    color:#fff;
+    border: none;
+    
+}
+.btn .btn-1 i{
+    padding: 10px;
+
+}
+.btn .btn-2 i{
+    padding: 15px;
+    
+}
+.btn .btn-2{
+    margin-left: 1400px;
+    margin-top: -700px;
+}
+    /*section-1*/
+
+.football-1{
+    background-color: rgb(24, 24, 172);
+    padding: 20px;
+    background-repeat: no-repeat;
+}
+.banner{
+    
+    width: 750px;
+}
+.banner img{
+    margin-top: -500px;
+    margin-left: 800px;
+    width: 100%;
+}
+.player{
+width: 75%;
+margin: 50px auto;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-gap: 3em;
+}
+.players .img-box{
+    width: 100%;
+}
+.players .img-box img{
+    width: 100%;
+}
+.players h3{
+    width: 80%;
+    font-family: Poppins'sans-serif';
+    margin: 10px 0; 
+    font-size: 30px;
+
+}
+.players p{
+    width: 80%;
+    font-family: 'sans-serif';
+    margin: 10px 0; 
+}
+.players{
+    box-shadow: 3px 3px 12px 12px #f5eeee;
+    padding: 10px;
+}
+
+.social-icon{
+    text-align: center;
+    
+}
+.footer{
+    text-align: center;
+    
+}
