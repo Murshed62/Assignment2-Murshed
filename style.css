@@ -83,7 +83,15 @@ button{
 }
 .image img{
     width: 100%;
+    transition: all .5s linear;
 }
+.image img:hover{
+  width: 550px;
+  height: 450px;
+  transform: rotate(360deg);
+  
+}
+
 
 
 .grid_Members{
